@@ -1,0 +1,1 @@
+mvn clean deploy -P release -Darguments=gpg.passphrase="Admin123...!"
